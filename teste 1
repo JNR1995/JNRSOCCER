@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Upload do bot de futebol"
+git branch -M main
+git remote add origin https://github.com/seu_usuario/seu_repositorio.git
+git push -u origin main
